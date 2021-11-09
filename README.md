@@ -1,7 +1,11 @@
-# Jekyll Post Generator
+# Jekyll Post Maker
+maneira simples de criar posts para o jekyll
 
-😊 **easy way to make jekyll post**
+### Minhas alterações:
 
-# Demo
+- Adicionado tema dark
+- Traduzido para o portugês
+- Design clean e divertido
 
-[https://anasrar.github.io/Jekyll-Post-Generator/index.html](https://anasrar.github.io/Jekyll-Post-Generator/index.html)
+### Créditos:
+https://github.com/anasrar/Jekyll-Post-Generator/
