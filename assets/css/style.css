@@ -1,5 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif
+    background-color: #0E1D47;
+    color: white;
 }
 #editor {
     font-family: 'Inconsolata', monospace;
